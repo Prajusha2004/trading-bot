@@ -104,8 +104,33 @@ python -m streamlit run dashboard.py
 
 ---
 
+## 🧪 Observations
+
+* The bot successfully fetches live market data from Binance Testnet.
+* Trades are triggered when price crosses defined thresholds.
+* Due to the simplicity of the strategy, frequent HOLD states occur during stable price ranges.
+
+---
+
+## 💡 Design Decisions
+
+* A threshold-based strategy was chosen for simplicity and clarity.
+* Streamlit was used for rapid dashboard development and visualization.
+* Order execution is simulated to avoid risk and simplify testing.
+
+---
+
+## ⚠️ Limitations
+
+* Strategy does not account for market trends or indicators.
+* No risk management (stop-loss, position sizing).
+* Not suitable for real trading without improvements.
+
+---
+
 ## Conclusion
 
 This project demonstrates how to build a simple trading system by combining financial APIs, real-time data processing, and interactive dashboards.
 
 It highlights practical skills in backend logic, API integration, and frontend visualization using Python.
+I went through your document (yes, the actual content this time, not your locked vault 😐). Here’s the honest evaluation you probably need before hitting submit.
