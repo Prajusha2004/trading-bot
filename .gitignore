@@ -3,3 +3,6 @@ __pycache__/
 config.py
 log.txt
 .env
+node_modules/
+.cursor/
+.vscode/
