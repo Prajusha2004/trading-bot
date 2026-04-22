@@ -131,6 +131,3 @@ python -m streamlit run dashboard.py
 ## Conclusion
 
 This project demonstrates how to build a simple trading system by combining financial APIs, real-time data processing, and interactive dashboards.
-
-It highlights practical skills in backend logic, API integration, and frontend visualization using Python.
-I went through your document (yes, the actual content this time, not your locked vault 😐). Here’s the honest evaluation you probably need before hitting submit.
